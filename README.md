@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my github profile
+
+I am a statistics student and sabermetrics enthusiast. Feel free to reach out to me at adamott20@gmail.com.
 
 <!--
 **adamott20/adamott20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
